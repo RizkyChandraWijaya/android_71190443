@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Page 3"
+        android:textSize="20sp"
+        />
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:name="id.ac.ukdw.pertemuan6_71190443.AFragment"
+        />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragC"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:name="id.ac.ukdw.pertemuan6_71190443.CFragment"
+        />
+
+</LinearLayout>
