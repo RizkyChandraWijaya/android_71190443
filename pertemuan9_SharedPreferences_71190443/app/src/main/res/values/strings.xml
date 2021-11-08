@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pertemuan9_SharedPreferences_71190443</string>
+    <string-array name="list_bahasa">
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Jepang</item>
+        <item>Korea</item>
+    </string-array>
+</resources>
