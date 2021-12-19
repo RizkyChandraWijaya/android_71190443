@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout-land/page_satu.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout-land/page_tiga.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout/fragment_a.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout/page_dua.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout/page_satu.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/MSI-steel/OneDrive/Documents/GitHub/android_71190443/pertemuan6_71190443/app/src/main/res/layout/page_tiga.xml" value="0.17617753623188406" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
